@@ -4,3 +4,6 @@ It groups a folder to a git repository with the .git file. It needs to be done b
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area only contains files that are flagged for commit. It lets us separate which files should be commited, which are chosen based
 on their logical connections (e.g. in programming).
+
+How can you use the staging area to make sure you have one commit per logical change?
+By chosing to add files that have been logically connected and changed to the staging area and commit them then
