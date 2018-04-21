@@ -14,3 +14,6 @@ They help because you may always go back to a working version of the code during
 
 How do the diagrams help you visualize the branch structure?
 They show the node points (merge) very well
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We get a version with the added feature. Because the resulting merge is a new commit for the merged version.
