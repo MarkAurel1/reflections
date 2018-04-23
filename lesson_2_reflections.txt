@@ -17,3 +17,6 @@ They show the node points (merge) very well
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 We get a version with the added feature. Because the resulting merge is a new commit for the merged version.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Manually you can better evaluate which version of the code should be take into account. Automatically may produce uncompilable errors.
